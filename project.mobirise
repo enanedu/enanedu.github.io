@@ -46,7 +46,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "EnanEdu",
+        "title": "Enan Education",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -333,7 +333,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "",
-        "title": "About Us",
+        "title": "About Enan Edu",
         "order": 1
       },
       "components": [
