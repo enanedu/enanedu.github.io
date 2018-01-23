@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "enanedu.com",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 29,
     "versionPublish": "4.6.2",
@@ -47,7 +47,7 @@
       "settings": {
         "main": true,
         "title": "EnanEdu",
-        "meta_descr": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112927598-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-112927598-1');\n</script>",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -332,7 +332,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112927598-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-112927598-1');\n</script>",
+        "meta_descr": "",
         "title": "About Us",
         "order": 1
       },
@@ -475,7 +475,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112927598-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-112927598-1');\n</script>",
+        "meta_descr": "",
         "title": "Very Easy",
         "order": 4
       },
@@ -515,7 +515,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112927598-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-112927598-1');\n</script>",
+        "meta_descr": "",
         "title": "I am Beginner",
         "order": 3
       },
@@ -555,7 +555,7 @@
     },
     "page4.html": {
       "settings": {
-        "meta_descr": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112927598-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-112927598-1');\n</script>",
+        "meta_descr": "",
         "title": "I am Professional",
         "order": 2
       },
