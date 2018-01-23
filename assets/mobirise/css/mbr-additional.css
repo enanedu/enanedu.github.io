@@ -1712,33 +1712,23 @@ body {
 .cid-qHxpzVwVeX P {
   color: #ffffff;
 }
-.cid-qHzjLpUXLR {
+.cid-qHzx0njOsk {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
-.cid-qHzjLpUXLR h3 {
+.cid-qHzx0njOsk .mbr-text {
+  color: #767676;
+}
+.cid-qHzx0njOsk h4 {
   text-align: center;
 }
-.cid-qHzjLpUXLR .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
+.cid-qHzx0njOsk p {
+  text-align: center;
 }
-.cid-qHzjLpUXLR .mbr-content-text {
-  color: #767676;
-}
-.cid-qHzjLpUXLR .panel-item {
-  background: #ffffff;
-}
-.cid-qHzjLpUXLR .card {
-  word-wrap: break-word;
-}
-.cid-qHzjLpUXLR .mbr-iconfont {
-  font-size: 80px;
+.cid-qHzx0njOsk .card-img span {
+  font-size: 96px;
   color: #149dcc;
-}
-.cid-qHzjLpUXLR H3 {
-  text-align: center;
 }
 .cid-qHxpB7mQwH {
   background-image: url("../../../assets/images/background1.jpg");
