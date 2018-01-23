@@ -33,7 +33,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/2018-01-21-19-1.50.51-128x129.png",
     "noImageResize": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
