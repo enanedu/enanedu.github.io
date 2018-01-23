@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "enan.com",
+    "name": "enanedu.com",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 20,
@@ -37,7 +37,7 @@
     "noImageResize": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "siteUrl": "http://enan.com",
+    "siteUrl": "http://enanedu.github.io",
     "sitemapSwitcherAuto": "on",
     "google-analytics": "",
     "sitemapSwitcher": "on"
