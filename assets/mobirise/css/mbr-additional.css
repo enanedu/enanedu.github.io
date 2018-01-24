@@ -1386,7 +1386,7 @@ body {
 .cid-qHDzBDRSzy {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-qHDzBDRSzy .mbr-text {
   color: #767676;
@@ -1404,7 +1404,7 @@ body {
 .cid-qHGjOfaHyi {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-qHGjOfaHyi .card-box {
   padding: 0 2rem;
@@ -1702,6 +1702,7 @@ body {
 }
 .cid-qHuHhst1Rj P {
   color: #efefef;
+  text-align: left;
 }
 .cid-qHuPnb1oUU {
   background-image: url("../../../assets/images/background1.jpg");
