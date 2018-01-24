@@ -1984,7 +1984,7 @@ body {
 .cid-qHzx0njOsk {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-qHzx0njOsk .mbr-text {
   color: #767676;
@@ -1998,6 +1998,29 @@ body {
 .cid-qHzx0njOsk .card-img span {
   font-size: 96px;
   color: #149dcc;
+}
+.cid-qHGpEjN2SN {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+.cid-qHGpEjN2SN .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qHGpEjN2SN .section-text {
+  padding: 2rem 0;
+}
+.cid-qHGpEjN2SN .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qHGpEjN2SN .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-qHxpB7mQwH {
   background-image: url("../../../assets/images/background1.jpg");
