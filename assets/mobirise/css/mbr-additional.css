@@ -1747,6 +1747,13 @@ body {
 .cid-qHRZygIspv {
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
+.cid-qIBwWB9kKX {
+  background: linear-gradient(45deg, #fbac7f, #e5658a);
+}
+.cid-qIBwWB9kKX .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
 .cid-qIB4Nl4LfC {
   padding-top: 90px;
   padding-bottom: 90px;
