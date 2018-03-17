@@ -1372,23 +1372,21 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qKGmXQnEvj {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-qMycmkdcZj {
   background-image: url("../../../assets/images/background4.jpg");
 }
 @media (min-width: 992px) {
-  .cid-qKGmXQnEvj .mbr-figure {
+  .cid-qMycmkdcZj .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-qKGmXQnEvj .mbr-figure {
+  .cid-qMycmkdcZj .mbr-figure {
     padding-bottom: 3rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-qKGmXQnEvj .mbr-text {
+  .cid-qMycmkdcZj .mbr-text {
     text-align: center;
   }
 }
