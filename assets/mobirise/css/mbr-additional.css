@@ -1756,6 +1756,11 @@ body {
 .cid-qHRZygIspv {
   background-image: url("../../../assets/images/mbr-1716x1080.jpg");
 }
+.cid-qJrd5JHFkf {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background5.jpg");
+}
 .cid-qMXl0t712o {
   background: linear-gradient(45deg, #f4a997, #a09fc0);
 }
@@ -1813,11 +1818,6 @@ body {
   .cid-qMycmkdcZj .mbr-text {
     text-align: center;
   }
-}
-.cid-qJrd5JHFkf {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background5.jpg");
 }
 .cid-qJrb7lIg2n {
   padding-top: 90px;
