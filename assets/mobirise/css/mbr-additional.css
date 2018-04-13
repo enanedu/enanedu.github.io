@@ -1375,6 +1375,15 @@ body {
 .cid-qHRZygIspv {
   background-image: url("../../../assets/images/mbr-1716x1080.jpg");
 }
+.cid-qP7FPomrRP {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: linear-gradient(45deg, #fbac7f, #e5658a);
+}
+.cid-qP7FPomrRP .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
 .cid-qJrd5JHFkf {
   background-image: url("../../../assets/images/background5.jpg");
 }
