@@ -4793,3 +4793,78 @@ body {
   display: block;
   text-align: center;
 }
+.cid-qPh6Une1ml {
+  background-image: url("../../../assets/images/star-wars-battlefront-electronic-arts-105865-1920x1080-1920x1080.jpg");
+}
+.cid-qPh7br5Xkn {
+  background-image: url("../../../assets/images/726155-1920x1080.jpg");
+}
+.cid-qPh7br5Xkn h1 {
+  color: #616161;
+}
+.cid-qPh7br5Xkn h2,
+.cid-qPh7br5Xkn h3,
+.cid-qPh7br5Xkn p {
+  color: #767676;
+}
+.cid-qPh7br5Xkn .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-qPh7br5Xkn H1 {
+  color: #ffffff;
+}
+.cid-qPha1QE04m {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: linear-gradient(45deg, #177396, #ca2955);
+}
+.cid-qPha1QE04m .list-group-item {
+  padding: .75rem 3.25rem;
+}
+.cid-qPha1QE04m .plan {
+  word-break: break-word;
+  position: relative;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-qPha1QE04m .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+}
+.cid-qPha1QE04m .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-qPha1QE04m .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-qPha1QE04m .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-qPha1QE04m .plan-header,
+.cid-qPha1QE04m .plan-body {
+  background-color: #fff;
+}
+.cid-qPha1QE04m .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+.cid-qPha1QE04m .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 550px) {
+  .cid-qPha1QE04m .price-figure {
+    font-size: 4.25rem;
+  }
+}
